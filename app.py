@@ -14,7 +14,7 @@ import numpy as np
 
 
 # to show web-app : complete page layout 
-st.set_page_config(layout = "Wide")
+st.set_page_config(layout="Wide")
 
 # to give title 
 st.title("AI RESUME GENERATOR ")
