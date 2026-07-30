@@ -44,7 +44,7 @@ else:
 
 # MULTISELECT OPTION 
 options = ["Delhi","Banglore",
-           Mumbai","Pune",
+           "Mumbai","Pune",
            "Gurugram/Gurgaon"]
 loaction  = st.sidebar.multiselect("Select Loaction", options = options)
 
