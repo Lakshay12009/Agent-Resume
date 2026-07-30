@@ -23,6 +23,8 @@ resume with latest jobs apply links""")
 
 st.image("bg.png")
 
+st.sidebar.title("Fill Important Details )
+st.sidebar.image("bg.png")
 
 
 #======API KEYS========
